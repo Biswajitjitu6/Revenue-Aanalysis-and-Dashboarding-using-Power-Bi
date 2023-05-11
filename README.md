@@ -9,7 +9,10 @@ Provide Insights to the Revenue Team in the Hospitality Domain
 1. Microsoft Power Bi
 2. Microsoft Excel
 
-## Screenshots
+## Dashboard
 
 ![image](https://github.com/Biswajitjitu6/Revenue-Aanalysis-and-Dashboarding-using-Power-Bi/assets/97983738/59dea053-229a-4f1a-ad95-262b90d3b129)
 
+## Data Model
+
+![image](https://github.com/Biswajitjitu6/Revenue-Aanalysis-and-Dashboarding-using-Power-Bi/assets/97983738/9c39d38f-3015-4395-8b57-b5c3cc402900)
